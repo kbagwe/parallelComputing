@@ -1,0 +1,1 @@
+As we used threads in for loop and used TLS (Thread Local Storage) which enables multiple threads to run and use thread specific storage. It also helps with not using locks. So the distribution of work is done among them and hence the speed up increases. 
